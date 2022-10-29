@@ -21,7 +21,7 @@
     "express": "^4.16.2",
     "p2": "^0.7.1",
     "phaser": "^2.6.2",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
